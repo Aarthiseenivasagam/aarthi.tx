@@ -36,6 +36,8 @@ Automated reminders for due dates or overdue books are sent via email or SMS.
 
 Inventory & Reports
 The system tracks book conditions, lost/damaged books, and generates reports on circulation, popular books, and user activity.
+
+
 🛠 Tools Used for Library Book Management Project
 1. Software Development Tools
 
